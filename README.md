@@ -2,7 +2,7 @@
 - 👀 I’m interested to work as web developer
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gabhanepushparaj@gmail.com / 8378875060
+- 📫 How to reach me gabhanepushparaj@gmail.com
 
 <!---
 PushparajGabhane/PushparajGabhane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
